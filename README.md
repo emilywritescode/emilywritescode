@@ -12,4 +12,4 @@ I like working on web applications and other projects that combine my technical 
   - digital art 🎨 (of whatever's inspiring me at the moment)
   - learning and creating something new 💡
     
-You can find more about me on [my website](emilywritescode.com). 💜
+You can find more about me on [my website](https://emilywritescode.com). 💜
