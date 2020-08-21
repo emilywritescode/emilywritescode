@@ -10,7 +10,7 @@ I like working on web applications and other projects that combine my technical 
   - reading 📚 (classics and young adult fantasy novels)
   - writing ✏️ (poetry and short story fiction)
   - digital art 🎨 (of whatever's inspiring me at the moment)
-  - video games (playing and watching)
+  - video games 🖥 (playing and watching)
   - learning and creating something new 💡
     
-You can find more about me on [my website](https://emilywritescode.com). 💜
+You can find more about me on [my website](https://emilywritescode.com).
